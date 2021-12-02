@@ -28,7 +28,7 @@
     "typescript": "latest"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=v16.13.1"
   },
   "sideEffects": false
 }
